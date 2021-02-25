@@ -1,0 +1,42 @@
+# Review of Literature
+
+Table 1
+
+*Comparison of the Teacher Induction and Social Media Literatures*
+
+```{r packages, include=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+```{r table-1, tidy=TRUE, include=TRUE, echo=FALSE}
+
+table1 <- data.frame(
+  col1 = c(
+    "Supports for Professional Learning",
+    "Reasons for Supports",
+    "Interpersonal Connections"
+  ),
+  col2 = c(
+    "Primarily formal induction programs (e.g., mentoring, seminars, collaborative work times), some school-external networks",
+    "Induction challenges (e.g., everything is new, still learning, professional-identity formation)",
+    "Primarily local relationships (e.g., mentors, peers, administrators), some school-external networks (e.g., virtual learning communities, virtual workshops)"
+  ),
+  col3 = c(
+    "Primarily informal learning opportunities (e.g., resources, skills, curricular materials, encouragement)",
+    "General difficulty of teaching (e.g., emotionally tiring, needing to look for very specific ideas, pressures to appear competent to local colleagues, professional isolation)",
+    "Primarily global networks (e.g., Twitter hashtags, subreddits, Pinterest accounts), some local connections (e.g., course assignments for preservice teachers)"
+  )
+)
+
+knitr::kable(table1,
+             col.names=c("PLN Component", 
+                         "Teacher Induction literature", 
+                         "Social Media literature"
+                         ),
+             booktabs = TRUE) %>%
+  kable_styling(full_width=TRUE) %>%
+  column_spec(1, bold=TRUE, border_right=FALSE)
+```
+

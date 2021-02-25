@@ -1,0 +1,13 @@
+author-note
+abstract
+keywords
+introduction
+framework
+review-of-literature
+purpose-and-research-questions
+method
+results
+discussion
+implications
+conclusion
+references

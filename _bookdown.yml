@@ -1,0 +1,6 @@
+book_filename: "dissertation-proposal"
+chapter_name: ""
+repo: https://github.com/bretsw/dissertation-proposal-text
+output_dir: docs
+new_session: no
+delete_merged_file: true

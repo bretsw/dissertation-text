@@ -1,0 +1,23 @@
+--- 
+title: "\"I Filled a Lot of Gaps:\" How and Why New Teachers Expand Induction Support Systems with Social Media"
+subtitle: "A Dissertation"
+author: "K. Bret Staudt Willet"
+date: "2021-03-19"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: bretsw/dissertation-proposal-text
+cover-image: img/edu-verse.jpg
+description: "Full text of my dissertation report, rendered using R markdown and the 'bookdown' package."
+---
+
+# Author Note
+
+K. Bret Staudt Willet, Department of Counseling, Educational Psychology, and Special Education, Michigan State University.
+
+This research proposal was guided by my dissertation co-chairs, Matthew Koehler and Christine Greenhow, and committee members, Ralph Putnam and Gail Richmond. This online version was created with the **bookdown** package (Xie, 2019a) in R, which in turn was built on top of R Markdown and **knitr** (Xie, 2019b).
+
+Correspondence concerning this proposal should be addressed to Bret Staudt Willet, Department of Counseling, Educational Psychology, and Special Education, Michigan State University, 620 Farm Lane, 513 Erickson Hall, East Lansing, MI 48824. E-mail: staudtwi@msu.edu
