@@ -47,6 +47,8 @@ This online version was created with the [bookdown](https://github.com/rstudio/b
 
 I have learned from the faculty at Michigan State University in East Lansing MI, built on the traditional land of the Peoria, Anishinabewaki, Odawa, and Sauk Peoples, and I have lived and completed my graduate schoolwork in Lancaster County PA, on the traditional land of the Susquehannock People. This acknowledgment demonstrates my commitment to continue the process of working to dismantle the ongoing legacies of settler colonialism. Learn more at [Native-Land.ca](https://native-land.ca/).
 
+<hr>
+
 ## Contact {.unnumbered}
 
 Correspondence concerning this dissertation should be addressed to Bret Staudt Willet, Department of Counseling, Educational Psychology, and Special Education, Michigan State University, 620 Farm Lane, 513 Erickson Hall, East Lansing, MI 48824. E-mail: staudtwi@msu.edu

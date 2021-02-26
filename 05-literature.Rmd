@@ -1,42 +1,59 @@
 # Review of Literature
 
-Table 1
+Although the teacher induction literature and the teachers’ use of social media literature share a broad interest in teachers’ professional learning, these bodies of research remain almost entirely disparate. The induction literature tends to focus on formal, local programs—often defining the scope of inquiry too narrowly to include the full range of tools, people, and spaces potentially made accessible to new teachers through social media today. In contrast, the social media literature tends to focus on informal learning opportunities through worldwide connections, leaving the scope of inquiry too broad by not considering that there may be unique experiences and challenges faced by new teachers during induction. In addition, these two bodies of research deal with similar concepts but use distinct terms and definitions. Therefore, here I use the PLN framework to organize a review of what has been studied and what is yet unknown regarding *tools* (formal and informal), *people* (in-school and out-of-school), and *spaces* (including those accessed through social media) made available to or sought out by new teachers during induction. First, though, I look at *underlying reasons* reported in the literature for why new teachers need induction support systems at all.
 
-*Comparison of the Teacher Induction and Social Media Literatures*
+## Reasons for Induction Support Systems
 
-```{r packages, include=FALSE}
-library(tidyverse)
-library(knitr)
-library(kableExtra)
-```
+Two realities for new teachers stand out in the literature as related to induction challenges and underlying reasons why induction support systems are necessary: everything is new, and new teachers are still learning their professional practice. I unpack these in the following paragraphs.
 
-```{r table-1, tidy=TRUE, include=TRUE, echo=FALSE}
+### Everything is New
 
-table1 <- data.frame(
-  col1 = c(
-    "Supports for Professional Learning",
-    "Reasons for Supports",
-    "Interpersonal Connections"
-  ),
-  col2 = c(
-    "Primarily formal induction programs (e.g., mentoring, seminars, collaborative work times), some school-external networks",
-    "Induction challenges (e.g., everything is new, still learning, professional-identity formation)",
-    "Primarily local relationships (e.g., mentors, peers, administrators), some school-external networks (e.g., virtual learning communities, virtual workshops)"
-  ),
-  col3 = c(
-    "Primarily informal learning opportunities (e.g., resources, skills, curricular materials, encouragement)",
-    "General difficulty of teaching (e.g., emotionally tiring, needing to look for very specific ideas, pressures to appear competent to local colleagues, professional isolation)",
-    "Primarily global networks (e.g., Twitter hashtags, subreddits, Pinterest accounts), some local connections (e.g., course assignments for preservice teachers)"
-  )
-)
+A first challenge for new teachers is that everything in their professional lives is new. They are adjusting to new colleagues, administrators, students, curriculum, school culture, and school politics (Stanulis et al., 2012). In addition, new teachers are not able to work with the same efficiency as their more experienced colleagues and end up working a disproportionate amount of time just to get by (Fantilli & McDougall, 2009). New teachers are also still forming their professional identities as educators—that is, how they understand themselves in relation to teaching (Cuddapah & Clayton, 2011). In their narrative inquiry study, Pearce and Morrison (2011) argued that new teachers’ identity development is a social process, occurring through interactions with others. Wray and Richmond (2018) characterized this process as one of *positioning*: how a new teacher behaves within a teaching community and how members of that community view them in turn.
 
-knitr::kable(table1,
-             col.names=c("PLN Component", 
-                         "Teacher Induction literature", 
-                         "Social Media literature"
-                         ),
-             booktabs = TRUE) %>%
-  kable_styling(full_width=TRUE) %>%
-  column_spec(1, bold=TRUE, border_right=FALSE)
-```
+### Ongoing Learning
 
+A second challenge for new teachers is that they have been credentialed to teach, but they are still honing their educational practice (Stanulis et al., 2012). Ingersoll (2012) explained that induction programs are designed assuming that teaching is a complex practice, with knowledge and skills that can only be fully developed by doing the work itself. Anderson and Stillman (2013) reviewed the literature and found that a dominant model of preservice teacher learning during their field experiences is a *replication* of experienced educators’ practices. Therefore, the challenge for new teachers in their transition from preparation to practice is to move beyond replication to *recontextualization* of practice appropriate for the new teachers’ specific classroom. Fantilli and McDougall’s (2009) survey study reported challenges for new teachers such as differentiating instruction to meet the needs of advanced students, communicating with parents, managing time for planning and scheduling, and managing students’ behavior in the classroom. New teachers are introduced to these skills in preparation programs, but they have not yet mastered them. New teachers are largely focused on personal concerns and resolving classroom management issues. In contrast, teachers with more experience are able to focus on curriculum and teaching practices, and only highly experienced teachers are able to focus on long-term thinking and student learning (Thompson et al., 2013; Zhukova, 2018).
+
+## Tools for Support During Induction
+
+### Formal Induction Programs
+
+Ingersoll and Strong (2011) noted that formal induction programs have helped new teachers transition from preparation to practice, from being students of teaching to teachers of students. Several studies have argued that induction supports should be targeted, systematic, and structured (Kang & Berliner, 2012; Zhukova, 2018). In a local context, skills and knowledge are offered through mentoring relationships as well as through seminars and workshops (Fantilli & McDougall, 2009; Kang & Berliner, 2012; Ronfeldt & McQueen, 2017). Dedicated times for collaborative work provide assistance with teacher planning (Fantilli & McDougall, 2009; Kang & Berliner, 2012; Ronfeldt & McQueen, 2017). Finally, help with classroom management and differentiation of instruction is offered by providing extra classroom assistance to new teachers (Kang & Berliner, 2012). The nature of these formal programs varies, with some being scheduled (e.g., workshops) and others just-in-time and on-demand (e.g., mentors, classroom assistance).
+
+### Informal Learning Opportunities
+
+Research on teachers’ use of social media has tended to emphasize how teachers have sought professional learning through social media platforms in ways that are self-initiated and informal (Macià & García, 2016). Kim et al. (2018) described how schools are composed of both a formal organization (e.g., defined teacher positions and roles) and informal networks (e.g.., who students turn to for expertise). This means new teachers may experience a mix of formal and informal elements in their local context, incorporating both officially assigned mentors as well as more self-initiated relationships. 
+
+## People: Sources of Induction Support Systems
+
+### In-school Connections
+
+The induction literature frequently discusses the relationship between new teachers and mentor teachers. Ingersoll and Strong’s (2011) literature review highlighted evidence from past studies that mentoring programs had a positive impact on the performance and retention of new teachers. Stanulis and Floden (2009) reported benefits from an intensive form of mentoring that included mentors working closely and collaboratively with new teachers: observing teaching, co-planning, and jointly analyzing student work. Finally, Davis and Higdon (2008) described how frequent “just-in-time” assistance from mentors was perhaps the most valuable aspect of an induction support program. However, despite these benefits, finding trusted mentors can still be a challenging task (Fantilli & McDougall, 2009).
+
+New teachers also benefit from receiving supportive communication from school leadership (Fantilli & McDougall, 2009; Ronfeldt & McQueen, 2017). For instance, Thomas et al. (2019) found that principals play a key role in welcoming new teachers and organizing induction support structures. Furthermore, numerous studies have shown that inadequate support from the school administration is one of the main factors in new teachers’ decisions to leave a teaching position (e.g., Fantilli & McDougall, 2009; Ingersoll & Strong, 2011).
+
+New teachers’ in-school peer relationships are also important (Thompson et al., 2013). Fresko and Alhija (2015) found that induction seminars could serve as learning communities for new teachers, offering participants the benefit of emotional support from peers with the same professional status rather than hierarchical relationships. Cuddapah and Clayton (2011) studied how peer learning in a local, district-wide cohort helped new teachers learn about issues such as classroom management and finding teaching resources.
+
+### Out-of-school Connections
+
+Research has also shown that new teachers often seek induction supports beyond their local context through informal, “school-external” networks that include family members, friends, and former instructors and classmates from preparation programs (März & Kelchtermans, 2020). These relationships can provide new teachers an outlet to discuss concerns related to rules and norms inside their schools.
+
+In addition to existing personal relationships, the Internet can aid new teachers in the ongoing process of learning to teach “by providing new avenues to access distributed expertise” (Putnam & Borko, 2000, p. 11). Internet-supported, out-of-school connections have been studied for at least 25 years, long before the advent of social media. An early example was Singletary and Anderson’s (1995) chapter on computer-mediated teacher induction. More recently, Smith Risser (2013) followed one new teacher’s development of a mentor network through Twitter, and Bartell et al. (2019) described how teachers can connect with allies for justice-oriented teaching through social media movements like #EduColor. However, with more voices offering purported expertise, new teachers face a challenge of reconciling conflicting messages about what and how to teach (Thompson et al., 2013). These studies notwithstanding, the literature has rarely connected the needs of new teachers with social media use, despite a growing body of research exploring how teachers use social media for professional learning.
+
+## Spaces: Locations of Induction Support Systems
+
+### Local Spaces
+
+Spaces that host induction supports have most often been studied in a local, offline context. School buildings are the most common spaces, incorporating subspaces such as new teachers’ classrooms where mentor teachers can observe and provide feedback (Stanulis & Floden, 2009) or paraeducators can provide additional assistance (Kang & Berliner, 2012), collaborative planning meetings (Fantilli & McDougall, 2009; Kang & Berliner, 2012; Ronfeldt & McQueen, 2017), peer or mentor teachers’ classrooms where new teachers can observe and ask questions afterward, staff meetings, the teachers’ lounge, etc. Local spaces also include locations nearby, but outside the school building, such as seminars, workshops, and other district-sponsored professional development (Cuddapah & Clayton, 2011; Fantilli & McDougall, 2009; Fresko & Alhija, 2015; Kang & Berliner, 2012; Ronfeldt & McQueen, 2017).
+
+### Social Media Spaces
+
+In addition to these local, offline contexts, online spaces are also potential locations of induction supports, but these have seldom been studied with new teachers specifically in mind. Still, the literature has found that educators (broadly defined, not specifically new teachers) regularly use social media to connect with people beyond their local school, often around the world (Beach, 2017; Macià & García, 2016; Trust, 2012). Educators have described appreciating how connections through social media provide freedom from temporal or geographical constraints, offering perspectives more diverse than would be available locally (Hur & Brush, 2009; Prestridge, 2017; Trust et al., 2016). Social media connections are particularly helpful for educators struggling with professional isolation (Carpenter & Krutka, 2014; Trust & Horrocks, 2017), such as those working in a small elementary school with only one teacher per grade level (Hur & Brush, 2009) or teaching a specialized content area like computer science (Yadav et al., 2016). In addition, Rehm and Notten (2016) found that educators continued to form new social connections as they spent more time on the social media platform Twitter. 
+
+Social media host spaces for educators’ professional learning (and hold the potential for induction support systems) through broad platforms such as Facebook (Kelly & Antonio, 2016; Ranieri et al., 2012), Instagram (Carpenter et al., 2020), Pinterest (Hu et al., 2018; Sawyer et al., 2019; Schroeder et al., 2019), and TeachersPayTeachers.com (Koehler et al., 2020; Shelton & Archambault, 2019). These platforms, in turn, often host distinct subspaces such as teaching-related subreddits like r/Teachers and r/education (Staudt Willet & Carpenter, 2020, 2021) as well as many education-related Twitter hashtags: #Edchat for broad education conversation (Staudt Willet, 2019; Xing & Gao, 2018), #michED for educational concerns in the U.S. state of Michigan (Greenhalgh et al., 2020), #NGSSchat for discussions of science teaching standards (Rosenberg et al., 2020), and #SocialMediaSyllabus and #MarginalSyllabus for collaboratively developing teaching syllabi (Greenhow et al., 2019).
+
+These social media spaces further expand educators’ opportunities for accessing expertise and informal mentoring (Greenhow & Lewin, 2016) through content-oriented as well as socially oriented interactions (Greenhow et al., 2009; Staudt Willet et al., 2017; Staudt Willet & Carpenter, 2020, 2021). Content-oriented interactions are related to educators’ use of social media to retrieve educational resources (e.g., Carpenter & Krutka, 2014; Hu et al., 2018; Krutka et al., 2017; Trust et al., 2016). Carpenter and Krutka’s (2014) survey reported that 96% of respondents had shared or acquired educational resources on Twitter. Duncan-Howell’s (2010) survey study found that educators wanted to select the content of their professional development, seeking professional learning related to contextualized classroom practices. An emphasis on content may mean that some educators participate on social media primarily for the purpose of observing and obtaining resources rather than contributing new content or interacting with other people (Bozkurt et al., 2020).
+
+There are potential challenges related to an orientation toward content. To start, because of the volume of resources available through social media, educators may have difficulty finding relevant resources. Past research has also shown that low-quality and problematic resources are disseminated online alongside legitimate ones (Sawyer et al., 2019). Also, the global scope of resources raises a *local-global tension* where the plethora of available resources must be filtered and adapted to be appropriate for a specific educational context (Jones & Preece, 2006).
+
+Socially oriented interactions on social media can be marked by numerous possibilities, such as collaboration (Davis, 2015; Greenhow et al., 2019; Xing & Gao, 2018) as well as seeking emotional encouragement and restoration of energy for teaching (Carpenter & Krutka, 2014; Trust et al., 2016). However, there are potential challenges related to social interactions as well. Carpenter and Harvey (2019) found that educators can be frustrated by what other educators post on social media, and other research has reported on the prevalence of self-serving behaviors amongst educators on social media (e.g., Prestridge, 2019; Staudt Willet, 2019). Lantz-Andersson et al. (2018) speculated whether social media participation fosters collaboration or competition. Additionally, increased connectivity also increases expectations that educators should always be available and accessible to students (Fox & Bird, 2017; Selwyn et al., 2017). 

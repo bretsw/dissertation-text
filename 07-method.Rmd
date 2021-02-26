@@ -1,3 +1,151 @@
 # Method
 
+In this study, I interviewed new teachers to ask them about their experiences constructing support systems of tools, people, and spaces during induction and using social media for this purpose. I conducted interviews to the point of *theoretical saturation* (Glaser & Strauss, 1967; Glesne, 2016), when three successive interviews did not seem to introduce new themes.
 
+## Participants
+
+Participants were U.S.-based PK-12 teachers who had been working in education for three years or less. I recruited nine participants from two graduate programs in education at Michigan State University (Table 1); all names are pseudonyms. Both programs are fully online (even prior to COVID-19) and encourage students to use social media for professional learning. Eight of the interviewees were white; one was African American (Simone). Seven were women; two were men (Mike and Wallace). Seven had undergraduate teacher preparation; two did not (Blair and Taylor). Although this group is a convenience sample because of my connections to these programs, it is also a purposeful sample intended to provide information-rich cases (Lincoln & Guba, 1985) across geographic location, students’ socioeconomic status (SES), and teachers’ assignments (i.e., grade level, subject, and classroom role).
+
+
+**Table 1.** *Attributes of Interview Participants*
+
+```{r, tidy=TRUE, include=TRUE, echo=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+
+table1 <- data.frame(
+  Name = c(
+    "Amelia",
+    "Anne",
+    "Blair",
+    "Hallie",
+    "Julie",
+    "Mike",
+    "Simone",
+    "Taylor",
+    "Wallace"
+  ),
+  Location = c(
+    "Suburban, West",
+    "Urban, Midwest",
+    "Urban, Midwest",
+    "Suburban, Midwest",
+    "Rural, Midwest",
+    "Suburban, Midwest",
+    "Suburban, Midwest",
+    "Suburban, West",
+    "Suburban, Midwest"
+  ),
+  "School Type" = c(
+    "Public",
+    "Public",
+    "Private",
+    "Hallie",
+    "Public",
+    "Public",
+    "Public",
+    "Private",
+    "Public"
+  ),
+  "Student SES" = c(
+    "Low",
+    "Low",
+    "High",
+    "High",
+    "Low",
+    "High",
+    "High",
+    "High",
+    "Low"
+  ),
+  "Teacher Experience" = c(
+    "3rd year",
+    "3rd year",
+    "3rd year",
+    "1st year",
+    "3rd year",
+    "3rd year",
+    "2nd year",
+    "3rd year",
+    "2nd year"
+  ),
+  "Grade Level" = c(
+    "Elementary (K, 5th)",
+    "Elementary (1st)",
+    "Elementary (PreK-5th)",
+    "Elementary (3rd)",
+    "Middle (8th)",
+    "High School (9th-12th)",
+    "Elementary (1st)",
+    "Elementary (K-4th)",
+    "High School (10th-11th)"
+  ),
+  Subject = c(
+    "Music",
+    "All",
+    "Tech",
+    "All",
+    "ELA",
+    "Math",
+    "All",
+    "Physical Education",
+    "ELA"
+  ),
+  Role = c(
+    "Itinerant Specialist",
+    "Classroom",
+    "Support Staff",
+    "Classroom",
+    "Classroom",
+    "Classroom",
+    "Classroom",
+    "Specialist",
+    "Classroom"
+  )
+)
+
+knitr::kable(table1,
+             col.names=c("Name", "Location", "School Type",
+                         "Student SES", "Teacher Experience",
+                         "Grade Level", "Subject", "Role"
+                         ),
+             booktabs = TRUE) %>%
+  kableExtra::kable_styling(full_width=TRUE) %>%
+  kableExtra::column_spec(1, bold=TRUE, border_right=FALSE)
+```
+
+## Data Collection
+
+I developed the interview protocol by recruiting four early-career teachers to pilot an initial interview protocol. I conducted pilot interviews using the video-communication software Zoom (https://zoom.us/), accepting the affordances and constraints of a video-based modality (Seitz, 2016). I asked pilot interviewees to critically evaluate the interview questions and give feedback on how questions could be improved (Glesne, 2016). In the final interview protocol (Appendix D), I grouped interview questions to parallel the study’s research questions, starting with asking about challenges and struggles of being a new teacher, whether they have sought support for these (and from whom), and whether they use social media to access these supports.
+
+To recruit the final interview participants (distinct from the pilot interviewees), I emailed the two graduate programs’ student listservs (Appendix A). I again hosted one-on-one, semi-structured interviews on Zoom, using built-in functionality to record audio and video. I also took my own notes during the interviews.
+
+## Data Analysis
+
+After completing interviews, I transcribed audio recordings into text. I used the automated transcription software Otter (https://otter.ai/) to provide an initial audio-to-text draft. I manually corrected the transcription while listening to the audio and pausing frequently. I then analyzed transcripts in ATLAS.ti (https://atlasti.com/), qualitative analysis software that allowed me to code, refine, track, and compare themes across interviews.
+
+I followed Saldaña’s (2016) procedures for open-ended qualitative analysis, using an *eclectic coding* approach. I worked through several distinct “cycles” of analysis; each cycle was an iterative step of coding and recoding the data. Starting with several a priori themes drawn from the literature (e.g., sharing/finding resources, sharing ideas/asking questions), I assigned initial *codes* (i.e., a summative word or phrase) to *quotations* (i.e., distinct sections defined by topic of conversation) that captured the essential essence of that section of text (Saldaña, 2016). Over the course of subsequent cycles, I cut a priori codes that did not usefully describe the content of what interview participants said (e.g., “self-seeking contributors,” drawn from Prestridge [2019]), I added emergent codes drawn from participants’ words (e.g., “not encouraged, but everyone uses TeachersPayTeachers”), and I synthesized codes into new wholes (e.g., “browsing”), called *categories*. With each new coding cycle, the number of codes decreased and became more focused. I used 288 codes in the first coding cycle, which I synthesized into 160 codes during the second coding cycle, and so on. In total, I worked through five distinct coding cycles to identify 11 emergent categories in the final codebook (Appendix E).
+
+As an illustrative example of the coding process, in the first cycle, I began with a priori codes like “sharing/finding resources” and “sharing ideas/asking questions.” In later cycles, I rearranged these two codes into simpler categories of “sharing” and “finding.” I also established numerous in vivo codes in the first cycle, such as “not encouraged, but everyone uses TeachersPayTeachers” and “I'm the worst when it comes to social media.” Later, these two codes were subsumed into the category of “finding.”
+
+## Trustworthiness of Research
+
+I used “systematic procedures, employing rigorous standards and clearly identified procedures” (Creswell & Miller, 2000, p. 129) to establish research validity. First, I used *triangulation*, “a systematic process of sorting through the data to find common themes or categories by eliminating overlapping areas” (Creswell & Miller, 2000, p. 127), in the process of looking for themes across participants, creating codes, and making revisions across five distinct coding cycles. 
+
+Second, I created an *audit trail* by documenting my process in a series of analytic memos (Creswell & Miller, 2000). From these memos I established a codebook (Appendix E), where I named categories, provided definitions, and gave examples. In the memos, I recorded key observations, connections, and inferences made during the coding process. For instance, in one memo from the first coding cycle, I wrote:
+
+> I’m going to need to tease apart two common, initial codes related to PURPOSE: (a) sharing/finding resources and (b) sharing ideas/asking questions. Seems like the difference is a focus on inspiration (big ideas and resources) vs. interaction (asking and answering). Potential new codes:
+>
+> - Grabbing resources (agency low)
+> - Browsing for ideas/inspiration (agency medium)
+> - Asking questions (agency high)
+> - Sharing ideas and resources (agency high)
+
+That is, in that very first phase of qualitative analysis, I had two codes (i.e., sharing/finding resources and sharing ideas/asking questions) that overlapped significantly while also seeming too broad. I worried that the breadth of these codes would obscure more nuanced processes. Two of my final categories, “browsing” and “asking,” first emerged from this early memo.
+
+Third, after completing five coding cycles, I recruited a second coder to test the *inter-rater reliability* of categories in the codebook. At this stage, I had identified 264 total quotations across the nine interviews. The mean number of quotations per interviewee was 29.33 (*SD* = 3.71; median = 30), with a range of 24 to 35. I randomly sampled 10% (n = 27) of the quotations, which the second coder and I independently analyzed, following the codebook. We then met to discuss discrepancies and update the codebook. As an example, during this process, I decided to remove the categories “teacher capital” and “observational learning.” These proved to be difficult concepts for two coders to observe and code consistently.
+
+The second coder and I repeated this pattern of analyzing a sample and discussing discrepancies five times, coding a new sample in each round, for a total of 135 quotations. In the fifth and final round, our percent agreement ranged from 88.89% to 100% and Cohen’s kappa ranged 0.65-1.00, representing “substantial” to “nearly perfect” inter-rater agreement (Landis & Koch, 1977, p. 165). With a finalized codebook and acceptable reliability scores, I recoded the entire corpus of interview data in a sixth distinct coding cycle. 
+
+Finally, I conducted *member checks* by sending a draft of the results section to interviewees, asking them if they would like to provide any clarification to how I represented them in the reported findings (Creswell & Miller, 2000). I received responses from everyone, and they all affirmed their words as I reported them. The only correction I received was from Anne, who clarified that it was her grade-level partner teacher who had left midyear, not her mentor teacher.
