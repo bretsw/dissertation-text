@@ -1,13 +1,11 @@
-author-note
-abstract
-keywords
 introduction
 framework
 review-of-literature
 purpose-and-research-questions
+header-2
+header-3
 method
 results
 discussion
 implications
 conclusion
-references

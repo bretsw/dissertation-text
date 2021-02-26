@@ -8,7 +8,7 @@ Two other frameworks intersect with the PLN concept and offer additional insight
 
 **Figure 1.** *Spaces for New Teachers’ Professional Learning*
 
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "840px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edu-verse-model.jpg")
 ```
 

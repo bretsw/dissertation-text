@@ -1,8 +1,8 @@
 --- 
 title: "\"I Filled a Lot of Gaps:\" How and Why New Teachers Expand Induction Support Systems with Social Media"
-subtitle: "A Dissertation"
 author: "K. Bret Staudt Willet"
 date: "2021-03-19"
+description: "Full text of my dissertation report, rendered using R markdown and the 'bookdown' package."
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -10,14 +10,45 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: bretsw/dissertation-proposal-text
-cover-image: img/edu-verse.jpg
-description: "Full text of my dissertation report, rendered using R markdown and the 'bookdown' package."
+cover-image: "img/edu-verse.jpg"
 ---
 
-# Author Note
+# Welcome {.unnumbered}
 
-K. Bret Staudt Willet, Department of Counseling, Educational Psychology, and Special Education, Michigan State University.
+```{r, out.width = "840px", echo = FALSE, fig.align = "center"}
+include_graphics("img/edu-verse.jpg")
+```
 
-This research proposal was guided by my dissertation co-chairs, Matthew Koehler and Christine Greenhow, and committee members, Ralph Putnam and Gail Richmond. This online version was created with the **bookdown** package (Xie, 2019a) in R, which in turn was built on top of R Markdown and **knitr** (Xie, 2019b).
+<center>**A Dissertation**</center>
+<center>Submitted to</center>
+<center>Michigan State University</center>
+<center>in partial fulfillment of the requirements</center>
+<center>for the degree of</center>
+<center>Educational Psychology and Educational Technology - Doctor of Philosophy</center>
+<center>2021</center>
 
-Correspondence concerning this proposal should be addressed to Bret Staudt Willet, Department of Counseling, Educational Psychology, and Special Education, Michigan State University, 620 Farm Lane, 513 Erickson Hall, East Lansing, MI 48824. E-mail: staudtwi@msu.edu
+<hr>
+
+## Dedication {.unnumbered}
+
+(coming soon)
+
+<hr>
+
+## Acknowledgments {.unnumbered}
+
+### Thanks {.unnumbered}
+
+This research proposal was guided by my dissertation co-chairs, Matthew Koehler and Christine Greenhow, and committee members, Ralph Putnam and Gail Richmond. 
+
+This online version was created with the [bookdown](https://github.com/rstudio/bookdown) package (Xie, 2021a) in R, which in turn was built on top of R Markdown and [knitr](https://github.com/yihui/knitr) (Xie, 2021b).
+
+### Land Acknowledgment {.unnumbered}
+
+I have learned from the faculty at Michigan State University in East Lansing MI, built on the traditional land of the Peoria, Anishinabewaki, Odawa, and Sauk Peoples, and I have lived and completed my graduate schoolwork in Lancaster County PA, on the traditional land of the Susquehannock People. This acknowledgment demonstrates my commitment to continue the process of working to dismantle the ongoing legacies of settler colonialism. Learn more at [Native-Land.ca](https://native-land.ca/).
+
+## Contact {.unnumbered}
+
+Correspondence concerning this dissertation should be addressed to Bret Staudt Willet, Department of Counseling, Educational Psychology, and Special Education, Michigan State University, 620 Farm Lane, 513 Erickson Hall, East Lansing, MI 48824. E-mail: staudtwi@msu.edu
+
+
