@@ -281,19 +281,19 @@ knitr::kable(table5,
              booktabs = TRUE) %>%
   kableExtra::kable_styling(full_width=TRUE, font_size = 12) %>%
   kableExtra::column_spec(1, bold=TRUE, border_right=FALSE) %>%
-  pack_rows("Planning, in-school", 
+  pack_rows("Purpose: Planning, in-school", 
             1, 1, 
             label_row_css = "background-color: #23373B; color: #fff;") %>%
-  pack_rows("Planning, out-of-school", 
+  pack_rows("Purpose: Planning, out-of-school", 
             2, 10, 
             label_row_css = "background-color: #23373B; color: #fff;") %>%
-  pack_rows("Enacting practice, out-of-school", 
+  pack_rows("Purpose: Enacting practice, out-of-school", 
             11, 12, 
             label_row_css = "background-color: #23373B; color: #fff;") %>%
-  pack_rows("Connecting socially, in-school", 
+  pack_rows("Purpose: Connecting socially, in-school", 
             13, 13, 
             label_row_css = "background-color: #23373B; color: #fff;") %>%
-  pack_rows("Connecting socially, out-of-school", 
+  pack_rows("Purpose: Connecting socially, out-of-school", 
             14, 16, 
             label_row_css = "background-color: #23373B; color: #fff;")
 ```
