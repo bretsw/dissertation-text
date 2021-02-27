@@ -39,13 +39,15 @@ include_graphics("img/edu-verse.jpg")
 
 ### Thanks {.unnumbered}
 
-This research proposal was guided by my dissertation co-chairs, Matthew Koehler and Christine Greenhow, and committee members, Ralph Putnam and Gail Richmond. 
-
-This online version was created with the [bookdown](https://github.com/rstudio/bookdown) package (Xie, 2021a) in R, which in turn was built on top of R Markdown and [knitr](https://github.com/yihui/knitr) (Xie, 2021b).
+This dissertation was guided by my committee co-chairs, Dr. Matthew Koehler and Dr. Christine Greenhow, and committee members, Dr. Ralph Putnam and Dr. Gail Richmond. 
 
 ### Land Acknowledgment {.unnumbered}
 
 I have learned from the faculty at Michigan State University in East Lansing MI, built on the traditional land of the Peoria, Anishinabewaki, Odawa, and Sauk Peoples, and I have lived and completed my graduate schoolwork in Lancaster County PA, on the traditional land of the Susquehannock People. This acknowledgment demonstrates my commitment to continue the process of working to dismantle the ongoing legacies of settler colonialism. Learn more at [Native-Land.ca](https://native-land.ca/).
+
+### Tools {.unnumbered}
+
+This online version of my dissertation was created with the [bookdown](https://github.com/rstudio/bookdown) package (Xie, 2021a) in R, which in turn was built on top of R Markdown and [knitr](https://github.com/yihui/knitr) (Xie, 2021b).
 
 <hr>
 
