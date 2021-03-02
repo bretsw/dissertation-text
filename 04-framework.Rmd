@@ -9,7 +9,7 @@ Two other frameworks intersect with the PLN concept and offer additional insight
 **Figure 1.** *Spaces for New Teachers’ Professional Learning*
 
 ```{r, out.width = "840px", echo = FALSE, fig.align = "center"}
-include_graphics("img/edu-verse-model.jpg")
+knitr::include_graphics("img/edu-verse-model.jpg")
 ```
 
 PLNs are "uniquely cultivated" (Trust & Prestridge, 2021, p. 1), meaning each teacher makes their own choices about how to construct their support system from a subset of all tools, people, and spaces available to them (i.e., why they access some contexts but not others). These choices in PLN construction are a way that teachers exercise *agency*. Agency may be understood as the ability to take intentional and purposeful actions, which are "influenced by experiences, beliefs, values, and goals in conjunction with the context" (Wray & Richmond, 2018, p. 3).

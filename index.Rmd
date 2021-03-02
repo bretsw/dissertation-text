@@ -16,7 +16,7 @@ cover-image: "img/edu-verse.jpg"
 # Welcome {.unnumbered}
 
 ```{r, out.width = "840px", echo = FALSE, fig.align = "center"}
-include_graphics("img/edu-verse.jpg")
+knitr::include_graphics("img/edu-verse.jpg")
 ```
 
 <center>**A Dissertation**</center>
