@@ -9,7 +9,7 @@ Participants were U.S.-based PK-12 teachers who had been working in education fo
 
 **Table 1.** *Attributes of Interview Participants*
 
-```{r, tidy=TRUE, include=TRUE, echo=FALSE}
+```{r, tidy=TRUE, include=TRUE, echo=FALSE, message=FALSE}
 library(tidyverse)
 library(knitr)
 library(kableExtra)
