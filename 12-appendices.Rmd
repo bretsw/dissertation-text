@@ -158,7 +158,7 @@ Note: The Human Research Protection Program (HRPP) and Institutional Review Boar
 
 ```{r, tidy=TRUE, include=TRUE, echo=FALSE}
 codebook <- data.frame(
-  Catgegory = c(
+  Category = c(
     "Change",
     "Scarcity of resources", 
     "Conflicting teaching beliefs", 
