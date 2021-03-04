@@ -1,5 +1,5 @@
 --- 
-title: "\"I Filled a Lot of Gaps:\" How and Why New Teachers Expand Induction Support Systems with Social Media"
+title: "\"I Filled a Lot of Gaps\": How and Why New Teachers Expand Induction Support Systems with Social Media"
 author: "K. Bret Staudt Willet"
 date: "March 19, 2021"
 description: "Full text of my dissertation report, rendered using R markdown and the 'bookdown' package."

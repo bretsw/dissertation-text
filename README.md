@@ -1,4 +1,4 @@
-# Dissertation - "I Filled a Lot of Gaps:" How and Why New Teachers Expand Induction Support Systems with Social Media
+# Dissertation - "I Filled a Lot of Gaps": How and Why New Teachers Expand Induction Support Systems with Social Media
 
 This repo contains the full text of my dissertation report, rendered using the **bookdown** package (https://github.com/rstudio/bookdown) in R, which in turn was built on top of R Markdown and **knitr** (https://github.com/yihui/knitr).
 
