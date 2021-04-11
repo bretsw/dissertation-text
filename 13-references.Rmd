@@ -80,6 +80,8 @@ Ingersoll, R. M., & Strong, M. (2011). The impact of induction and mentoring pro
 
 Jones, A., & Preece, J. (2006). Online communities for teachers and lifelong learners: A framework for comparing similarities and identifying differences in communities of practice and communities of interest. *International Journal of Learning Technology, 2*(2), 112–137. https://doi.org/10.1504/IJLT.2006.010615
 
+Juutilainen, M., Metsäpelto, R., & Poikkeus, A. (2018). Becoming agentic teachers: Experiences of the home group approach as a resource for supporting teacher students' agency. *Teaching and Teacher Education, 76*, 116-125. https://doi.org/10.1016/j.tate.2018.08.013
+
 Kang, S., & Berliner, D. C. (2012). Characteristics of teacher induction programs and turnover rates of beginning teachers. *The Teacher Educator, 47*(4), 268-282. https://doi.org/10.1080/08878730.2012.707758
 
 Kelly, N., & Antonio, A. (2016). Teacher peer support in social network sites. *Teaching and Teacher Education, 56*, 138-149. https://doi.org/10.1016/j.tate.2016.02.007
@@ -130,6 +132,8 @@ Ronfeldt, M., & McQueen, K. (2017). Does new teacher induction really improve re
 
 Rosenberg, J. M., Reid, J. W., Dyer, E. B., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020). Idle chatter or compelling conversation? The potential of the social media‐based# NGSSchat network for supporting science education reform efforts. *Journal of Research in Science Teaching, 57*(9), 1322-1355. https://doi.org/10.1002/tea.21660
 
+Ruohotie-Lyhty, M., & Moate, J. (2016). Who and how? Preservice teachers as active agents developing professional identities. *Teaching and Teacher Education, 55*, 318-327. https://doi.org/10.1016/j.tate.2016.01.022
+
 Saldaña, J. (2016). *The coding manual for qualitative researchers* (3rd ed.). SAGE.
 
 Sawyer, A., Dick, L., Shapiro, E., & Wismer, T. (2019). The top 500 mathematics pins: An analysis of elementary mathematics activities on Pinterest. *Journal of Technology and Teacher Education, 27*(2), 235-263. https://www.learntechlib.org/p/208241/
@@ -160,6 +164,8 @@ Staudt Willet, K. B., Koehler, M.J., & Greenhalgh, S. P. (2017). A tweet by any 
 
 Stevenson, M., Bower, M., Falloon, G., Forbes, A., & Hatzigianni, M. (2019). By design: Professional learning ecologies to develop primary school teachers’ makerspaces pedagogical capabilities. *British Journal of Educational Technology, 50*(3), 1260-1274. https://doi.org/10.1111/bjet.12743
 
+Tao, J., & Gao, X. (2017). Teacher agency and identity commitment in curricular reform. *Teaching and Teacher Education, 63*, 346-355. https://doi.org/10.1016/j.tate.2017.01.010
+
 Thomas, L., Tuytens, M., Devos, G., Kelchtermans, G., & Vanderlinde, R. (2019). Beginning teachers’ professional support: A mixed methods social network study. *Teaching and Teacher Education, 83*, 134-147. https://doi.org/10.1016/j.tate.2019.04.008
 
 Thompson, J., Windschitl, M., & Braaten, M. (2013). Developing a theory of ambitious early-career teacher practice. *American Educational Research Journal, 50*, 574–615. https://doi.org/10.3102/0002831213476334
@@ -171,6 +177,8 @@ Trust, T., & Horrocks, B. (2017). “I never feel alone in my classroom”: Teac
 Trust, T., Krutka, D. G., & Carpenter, J. P. (2016). “Together we are better”: Professional learning networks for teachers. *Computers & Education, 102*, 15-34. https://doi.org/10.1016/j.compedu.2016.06.007
 
 Trust, T., & Prestridge, S. (2021). The interplay of five elements of influence on educators’ PLN actions. *Teaching and Teacher Education, 97*, 103195. https://doi.org/10.1016/j.tate.2020.103195
+
+Vaughn, M. (2013). Examining teacher agency: Why did Les leave the building? *The New Educator, 9*(2), 119-134. https://doi.org/10.1080/1547688X.2013.778763
 
 Veletsianos, G., Johnson, N., & Belikov, O. (2019). Academics' social media use over time is associated with individual, relational, cultural and political factors. *British Journal of Educational Technology, 50*(4), 1713-1728. https://doi.org/10.1111/bjet.12788
 

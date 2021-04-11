@@ -1,8 +1,16 @@
 # Appendices {.unnumbered}
 
+```{r, include=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
 ## Appendix A: Publicity Email {.unnumbered}
 
-**Subject:** *Recruiting Participants: Dissertation Study about the Experiences of New Educators*
+This appendix shares the email sent to recruit participants for this study. Recipients were Master’s degree students in the College of Education at Michigan State University.
+
+**Email Subject:** *Recruiting Participants: Dissertation Study about the Experiences of New Educators*
 
 Hello! I am an MAET alumnus (graduated in 2015) and current doctoral student at MSU. My doctoral dissertation study focuses on the experiences of new educators, so I am looking for MAET students who have fewer than three years of experience as educators, whether as K12 classroom teachers or in other roles. 
 
@@ -21,7 +29,9 @@ http://bretsw.com - staudtwi@msu.edu
 
 ## Appendix B: Willingness to Participate Form {.unnumbered}
 
-*Introduction*
+This appendix shares the contents of the survey sent to study participants. Both the Informed Consent and the information-gathering questions are included.
+
+**Introduction**
 
 You are being asked to participate in a research study. The purpose of the study is to understand your experiences as a new educator——specifically, any struggles or challenges you have faced and supports you have sought out (if any). You will be asked to participate in an interview lasting 45-60 minutes. 
 
@@ -33,7 +43,7 @@ If you have any questions, please contact the principal researcher, Bret Staudt 
 
 You indicate that you voluntarily agree to participate in this research study by submitting this form.
 
-*Background Information*
+**Background Information**
 
 1.	What is your full name?
 2.	What is your email address?
@@ -50,7 +60,7 @@ You indicate that you voluntarily agree to participate in this research study by
 10.	What is your gender?
   a.	(Female, Male, Non-binary/Third gender, Prefer to self-describe ___, Prefer not to answer)
 
-*Social Media Use*
+**Social Media Use**
 
 11.	Which social media platforms do you use? (Choose all that apply.)
   a.	(Facebook, Instagram, LinkedIn, Pinterest, Reddit, Snapchat, TeachersPayTeachers, TikTok, Twitter, YouTube, Other)
@@ -65,6 +75,10 @@ You indicate that you voluntarily agree to participate in this research study by
 
 ## Appendix C: Interview Consent (To Be Read Aloud) {.unnumbered}
 
+This appendix shares the Informed Consent statement the principal researcher read aloud to study participants at the start of each interview. The Human Research Protection Program (HRPP) and Institutional Review Board (IRB) at Michigan State University classified this study as Exempt 2ii, meaning that “Any disclosure of the human subjects' responses outside the research would not reasonably place the subjects at risk of criminal or civil liability or be damaging to the subjects' financial standing, employability, educational advancement, or reputation.” Because this study is considered “exempt,” I only needed to receive verbal consent at the start of each interview.
+
+**Script:**
+
 Thank you for agreeing to do this interview with me today. I am a researcher at Michigan State University, and I am asking you to participate in a research study. The purpose of the study is to understand your experiences as a new educator. I will ask you to answer some questions. This should take about 45-60 minutes. There are no costs associated with participating in this study. Your participation is voluntary. If you do not want to answer any of the questions, please let me know. You can also ask me to stop at any time without consequence. In order to participate, you must be employed as an educator in the United States, have three years or less work experience in education, and be over 18 years old. In appreciation of your participation, you will receive a $20 gift card, a summary report of the study, and a letter to your principal noting your contribution to scholarly understanding of new educators’ experiences. If you have any questions after the interview, please contact me, Bret Staudt Willet (staudtwi@msu.edu), or Michigan State University’s Human Research Protection Program (https://hrpp.msu.edu/). You indicate that you voluntarily agree to participate in this research study by proceeding with the interview. Is it okay if I record our interview?
 
 <p style="color:gray;font-size:11px;">
@@ -74,6 +88,10 @@ Note: The Human Research Protection Program (HRPP) and Institutional Review Boar
 <hr>
 
 ## Appendix D: Interview Protocol {.unnumbered}
+
+This appendix shares the interview protocol used to guide one-on-one interviews with study participants. Because these interviews were semi-structured, the questions included here served as a starting point; the principal investigator asked follow-up questions that followed participants’ initial responses.
+
+**Protocol:**
 
 >Thank you again for agreeing to do this interview with me today. Remember that if there are any questions you don’t want to answer, you are welcome to skip them—just let me know.
 
@@ -154,7 +172,9 @@ Note: The Human Research Protection Program (HRPP) and Institutional Review Boar
 
 ## Appendix E: Codebook {.unnumbered}
 
-**Codebook of Emergent Themes and Categories from Qualitative Analysis of Interview Data**
+This appendix reports the final codebook of themes and categories (Table 8) that was developed over the course of five rounds of emergent, eclectic qualitative coding (Saldaña, 2016). These categories and definitions passed inter-rater reliability testing.
+
+**Table 8.** *Codebook of Emergent Themes and Categories from Interviews*
 
 ```{r, tidy=TRUE, include=TRUE, echo=FALSE}
 codebook <- data.frame(

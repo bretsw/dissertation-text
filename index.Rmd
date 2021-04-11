@@ -1,5 +1,5 @@
 --- 
-title: "\"I Filled a Lot of Gaps\": How and Why New Teachers Expand Induction Support Systems with Social Media"
+title: "\"I Filled a Lot of Gaps\": How and Why Early Career Teachers Expand Induction Support Systems with Social Media"
 author: "K. Bret Staudt Willet"
 date: "March 19, 2021"
 description: "Full text of my dissertation report, rendered using R markdown and the 'bookdown' package."
@@ -29,9 +29,18 @@ knitr::include_graphics("img/edu-verse.jpg")
 
 <hr>
 
+## License {.unnumbered}
+
+<center>Licensed under a CC BY-NC-SA 4.0 International License by<c/enter>
+<center>Kenneth Bret Staudt Willet</center>
+<center>2021</center>
+
+<hr>
+
 ## Dedication {.unnumbered}
 
-(coming soon)
+<center><i>For my family, E<sup>3</sup>,</i></center>
+<center><i>who continually remind me of what really matters.</i></center>
 
 <hr>
 
@@ -39,7 +48,7 @@ knitr::include_graphics("img/edu-verse.jpg")
 
 ### Thanks {.unnumbered}
 
-This dissertation was guided by my committee co-chairs, Dr. Matthew Koehler and Dr. Christine Greenhow, and committee members, Dr. Ralph Putnam and Dr. Gail Richmond. 
+My dissertation research has been guided by my co-advisors and co-chairs, Matthew Koehler and Christine Greenhow, who I credit for teaching me how to think and write. I cannot thank them enough. Matt is able to get to the point of things more efficiently than anyone I’ve ever known, and Chris is the savviest planner I’ve ever met. They have been an incomparable pair of guides on my Ph.D. journey &mdash; the best advisors anyone could hope for. I also wish to express sincere thanks to my other two committee members, Ralph Putnam and Gail Richmond, whose wisdom and expertise have significantly inspired me and shaped my ideas. I have benefited tremendously (and wouldn’t be here without) daily chats with the so-called Koehler Diaspora (Josh Rosenberg, Mete Akcaoglu, and Spencer Greenhalgh) and my Ph.D. cohort-mate Paul Reimer. Paul also served as the second coder to test and improve inter-rater reliability for this study, not to mention a daily sounding board for the past five years. His friendship buoyed me through many rough patches; everyone needs a buddy like him in grad school. Finally, I am deeply indebted to Sharon Hammond, our program secretary, who has solved innumerable procedural issues for me over the years; she really gets all of us in the program to where we need to go.
 
 ### Land Acknowledgment {.unnumbered}
 
@@ -47,7 +56,7 @@ I have learned from the faculty at Michigan State University in East Lansing MI,
 
 ### Tools {.unnumbered}
 
-This online version of my dissertation was created with the [bookdown](https://github.com/rstudio/bookdown) package (Xie, 2021a) in R, which in turn was built on top of R Markdown and [knitr](https://github.com/yihui/knitr) (Xie, 2021b).
+This online version of my dissertation was created with the [bookdown](https://github.com/rstudio/bookdown) package (Xie, 2021a) in [R](https://www.r-project.org/), which in turn was built on top of [R Markdown](https://rmarkdown.rstudio.com/) and [knitr](https://github.com/yihui/knitr) (Xie, 2021b).
 
 <hr>
 
